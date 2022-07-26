@@ -124,9 +124,9 @@ nav ul li{
         border-radius: 4px ;
         flex-direction: column;
     }
-    .songItem, .songName{
-        font-size: 1.8em;
-    }
+    /* .songItem, .songName{
+        font-size: 1em;
+    } */
     .bottom .songInfo{
         margin: 24px 0px;
         padding: 4px;
