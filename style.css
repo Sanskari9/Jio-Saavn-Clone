@@ -117,12 +117,15 @@ nav ul li{
         display: flex;
         background-color: white;
         color: black;
-        font-size: 0.8rem;
+        font-size: 1.8rem;
         margin: 6px 2px;
         justify-content: center;
         align-items: center;
         border-radius: 4px ;
         flex-direction: column;
+    }
+    .songItem, .songName{
+        font-size: 1.8em;
     }
     .bottom .songInfo{
         margin: 24px 0px;
