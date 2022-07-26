@@ -113,11 +113,11 @@ nav ul li{
         flex-direction: column;
     }
     .songItem{
-        width: 14em;
+        width: 25vw;
         display: flex;
         background-color: white;
         color: black;
-        font-size: 1.8rem;
+        font-size: 0.8rem;
         margin: 6px 2px;
         justify-content: center;
         align-items: center;
